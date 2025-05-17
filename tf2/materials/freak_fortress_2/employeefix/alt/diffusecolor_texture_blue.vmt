@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/employeefix/alt/diffusecolor_texture_blue"
+	"$nocull" 1
+}

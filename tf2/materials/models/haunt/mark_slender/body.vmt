@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/haunt/mark_slender/body"
+	"$normalmap" "models/haunt/mark_slender/normal"
+	"$surfaceprop" "AlienFlesh"
+	"$surfaceprop2" "BloodyFlesh"
+}

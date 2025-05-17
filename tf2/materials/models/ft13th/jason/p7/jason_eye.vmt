@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ft13th/jason/p7/jason_eye"
+    	"$bumpmap"     "models/ft13th/jason/p7/jason_eye_n"
+	
+
+	"$phong" "1"
+	"$phongboost" "0.4"
+	"$phongexponent" 10
+	"$phongfresnelranges" "[0.06 0.5 1]"
+}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture"		"freak_fortress_2/spookmaster_jones/jones_trench"
-	"$bumpmap"		"freak_fortress_2/spookmaster_jones/jones_trench_normal"
-	"$lightwarptexture"		"models/player/pyro/pyro_lightwarp"
-}

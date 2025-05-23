@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/employeefix/stop/t_pickaxe_tollbridge_d"
+	"$nocull" 1
+}
